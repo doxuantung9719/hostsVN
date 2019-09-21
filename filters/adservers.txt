@@ -254,3 +254,4 @@
 ||sun.win^
 ||v9bet.com^
 ||xmobliefacebook.com^
+||sun-apps.sfr.com^
